@@ -1,0 +1,17 @@
+[package]
+name = "knight-trivia"
+version = "0.1.0"
+edition = "2021"
+description = "A trivia game."
+license = "GPLv3"
+repository = "https://github.com/rthomp10/knight-trivia.git"
+authors = ["Ryan Thompson <ryanrthompson10@gmail.com>"]
+keywords = ["trivia", "game", "knight"]
+categories = ["games"]
+homepage = "https://yourprojecthomepage.com"
+documentation = "https://docs.yourprojecthomepage.com"
+readme = "README.md"
+
+[dependencies]
+rand = "0.8.5"
+
